@@ -5,7 +5,7 @@ Gene Duplication Event Finder
 
 # GDE-FINDER.sh  
 
-TGDE-FINDER is a pipeline that allows the identification of all duplication events in a set of gene families. From a family of size 𝑁, it is programmed in such a way to recover (𝑁−1) pairs of genes. The development was done in a machine under the Linux operating system (Ubuntu).
+GDE-FINDER is a pipeline that allows the identification of all duplication events in a set of gene families. From a family of size 𝑁, it is programmed in such a way to recover (𝑁−1) pairs of genes. The development was done in a machine under the Linux operating system (Ubuntu).
 
 The programming languages used in this pipelines:
 - Shell (On Ubuntu)
